@@ -1,11 +1,5 @@
 .DS_Store
 
-Leccion55/node_modules
-Leccion56/node_modules
-Leccion57/node_modules
-Leccion58/node_modules
+node_modules
 
-Leccion55/package-lock.json
-Leccion56/package-lock.json
-Leccion57/package-lock.json
-Leccion58/package-lock.json
+package-lock.json
